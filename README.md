@@ -1,4 +1,4 @@
-## 📡 5G Deployments Across Europe (2018–2025)
+## 📡 5G Deployments Across Europe (2020–2025)
 
 This analysis focuses on the introduction and expansion of 5G networks by key telecom operators in Germany, France, and Spain.
 
